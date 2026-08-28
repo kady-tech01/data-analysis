@@ -1,0 +1,7 @@
+transaction_date,description,amount,merchant,category,transaction_type,date_key
+2026-08-01,POS CARREFOUR TLEMCEN,150.5,Carrefour,Groceries & Supplies,Expense,20260801
+2026-01-08,POS CARREFOUR TLEMCEN,150.5,Carrefour,Groceries & Supplies,Expense,20260108
+2026-08-03,TRANSFER SALARY OTHMANE,25000.0,Othmane,Payroll,Expense,20260803
+2026-04-08,SHELL GAS STATION OUD,45.0,Shell,Fuel & Transport,Expense,20260408
+2026-08-05,FACEBOOK ADS PAYMENT,120.0,Meta Ads,Marketing,Expense,20260805
+2026-08-10,PDF INVOICE - Server Hosting Services,320.0,Vercel / AWS Cloud,IT & Infrastructure,Expense,20260810
