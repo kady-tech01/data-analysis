@@ -5,4 +5,4 @@ Welcome to my Data Analytics repository! This repo tracks my learning journey, c
 * **`Phase-2-Visualization-Storytelling/`**: Exploratory Data Analysis & Financial Reporting (Seaborn/Plotly).
 * **`Phase-3-Applied-ML-Forecasting/`**: Time Series Forecasting & Credit Risk ML Models (Scikit-Learn/Prophet).
 * **`Phase-4-PowerBI-Dashboards/`**: DAX Modeling & Financial BI Dashboards.
-* **`Phase-5-AI-FullStack-Capstone/`**: Full-Stack Financial Web Platform (Django, React, MySQL, AI).
+
